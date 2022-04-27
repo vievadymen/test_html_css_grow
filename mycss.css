@@ -1,0 +1,271 @@
+#navlist{
+    float: right;
+    text-decoration: none;
+    display: inline;
+}
+
+#navlist a{
+    text-decoration: none;
+    color: black;
+}
+.header{
+    margin-top: 5%;
+    display: inline;
+}
+
+#avatar{
+border-radius: 100%;
+width: 200px;
+height: 200px;
+float: right;
+}
+#rebtn{
+    background-color: #FF6464;
+    border-color: #FF6464;
+    color: white;
+    border-radius: 2px;
+    position: absolute;
+    width: 208px;
+    height: 47px;
+}
+.middle{
+    position: absolute;
+    width: 100%;
+    height: 396px;
+    left: 0px;
+    top: 50%;
+    background: #EDF7FA;
+}
+#viewAll{
+    width: 208px;
+    height: 20px;
+    float: right;
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    margin-right: 360px;
+    margin-top: 1%;
+    color: #00A8CC;
+}
+#recentV{
+    position: absolute;
+    width: 129px;
+    height: 60px;
+    left: 400px;
+    float: left;
+    margin-top: 1%;
+
+
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+
+    color: #21243D;
+}
+.cardL{
+text-align: center;
+position: absolute;
+width: 418px;
+height: 295px;
+left: 400px;
+top: 15%;
+background: #FFFFFF;
+box-shadow: 0px 4px 10px rgba(187, 225, 250, 0.25);
+border-radius: 4px;
+}
+#cardTitle1{
+    position: absolute;
+    width: 374px;
+    height: 85px;
+    left: 171px;
+    top: 692px;
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 38px;
+    
+    /* Dark Color */
+    
+    color: #21243D;
+}
+#cardTitle2{
+    position: absolute;
+    width: 374px;
+    height: 85px;
+    left: 171px;
+    top: 692px;
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 38px;
+    
+    /* Dark Color */
+    
+    color: #21243D;
+}
+.cardR{
+    text-align: center;
+    position: absolute;
+    width: 418px;
+    height: 295px;
+    left: 50%;
+    top: 15%;
+    
+    background: #FFFFFF;
+    border-radius: 4px;
+}
+
+#fw{
+
+position: absolute;
+width: 152px;
+height: 60px;
+left: 148px;
+top: 90%;
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 60px;
+
+color: #21243D;
+}
+
+#dashboard{
+    position: absolute;
+    width: 246px;
+    height: 180px;
+    left: 146px;
+    top: 105%;
+
+    background: url(image.png);
+    border-radius: 6px;
+}
+
+#dashboard2{
+    position: absolute;
+    width: 246px;
+    height: 180px;
+    left: 146px;
+    top: 130%;
+
+    background: url(image.png);
+    border-radius: 6px;
+}
+#design{
+
+position: absolute;
+width: 305px;
+height: 44px;
+left: 410px;
+top: 100%;
+
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 44px;
+
+color: #21243D;
+}
+#design2{
+
+    position: absolute;
+    width: 305px;
+    height: 44px;
+    left: 410px;
+    top: 124%;
+    
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 44px;
+    
+    color: #21243D;
+    
+    }
+#year{
+position: absolute;
+width: 62px;
+height: 25px;
+left: 410px;
+top: 110%;
+text-align: center;
+background: #142850;
+border-radius: 16px;
+}
+#yearr{
+    position: absolute;
+    width: 62px;
+    height: 25px;
+    left: 410px;
+    top: 138%;
+    text-align: center;
+    background: #142850;
+    border-radius: 16px;
+    }
+#year1{
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 900;
+font-size: 18px;
+color: #FFFFFF;
+}
+#year2{
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 18px;
+    color: #FFFFFF;
+    }
+#paragraphe{
+    position: absolute;
+    width: 594px;
+    height: 93px;
+    left: 410px;
+    top: 115%;
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    
+    color: #21243D;
+}
+#paragraphee{
+    position: absolute;
+    width: 594px;
+    height: 93px;
+    left: 410px;
+    top: 143%;
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    
+    color: #21243D;
+}
+.parag{
+
+position: absolute;
+width: 368px;
+height: 117px;
+left: 5%;
+top: 50%;
+
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+
+/* Dark Color */
+
+color: #21243D;
+}
